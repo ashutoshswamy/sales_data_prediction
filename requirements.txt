@@ -1,0 +1,4 @@
+matplotlib>=3.10
+pandas>=3.0
+statsmodels>=0.14
+streamlit>=1.57
